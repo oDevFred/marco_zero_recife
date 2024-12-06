@@ -33,7 +33,11 @@ O projeto foi organizado de forma a destacar as informações principais sobre o
 
 ## Imagens
 
-As imagens utilizadas são placeholders e podem ser substituídas por fotos reais do Marco Zero, se necessário.
+As imagens foram retiradas da internet:
+
+https://oxerecife.com.br/wp-content/uploads/2024/03/agosto2021arruandoParque-de-Esculturas-Francisco-Brennand.jpg
+
+https://marcozero.org/wp-content/uploads/2020/09/CarnavalALICEMAFRA-300x168.jpg
 
 ---
 
