@@ -137,3 +137,43 @@ article a {
 article a:hover {
     background-color: #00509e;
 }
+
+/* Responsividade */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2em;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    section {
+        padding: 8px;
+    }
+
+    article a {
+        padding: 8px 12px;
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    section {
+        padding: 6px;
+        border-left: 3px solid #0077b6;
+    }
+
+    article a {
+        padding: 6px 10px;
+        font-size: 0.8em;
+    }
+}
