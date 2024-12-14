@@ -11,6 +11,9 @@ body {
     color: #333;
     background-color: #f4f4f4;
     padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 header {
@@ -32,6 +35,9 @@ main {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 h2, h3 {
@@ -60,6 +66,9 @@ mark {
 figure {
     margin: 20px 0;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 figure img {
@@ -97,12 +106,14 @@ footer p {
     margin: 5px 0;
 }
 
-/* Pontos Turísticos */
+/* Específicos para Pontos Turísticos */
 section {
     margin-bottom: 20px;
     padding: 10px;
     border-left: 5px solid #0077b6;
     background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
 }
 
 section h3 {
@@ -117,6 +128,7 @@ article a {
     color: #fff;
     border-radius: 5px;
     text-align: center;
+    align-self: center;
 }
 
 article a:hover {
